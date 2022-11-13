@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Covariate Adjustment in Randomized Trials"
-date:   2022-10-24 23:36:56 +0000
+date:   2020-11-01 23:36:56 +0000
 categories: semiparametric
 ---
 
