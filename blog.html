@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Treatments and Observations
+title: Blog
 permalink: /blog/
 ---
 {%- if site.posts.size > 0 -%}
-    <h3 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h3 class="post-list-heading">{{ page.list_title | default: "All Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
